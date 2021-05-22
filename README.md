@@ -38,10 +38,8 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Install nfc-clone
-
-1. Install mfoc
    ```sh
-   git clone https://github.com/nfc-tools/mfoc
+   git clone https://github.com/nivapo95/nfc-clone
    ```
 2. Run the following commands
    ```sh
@@ -60,16 +58,14 @@ To get a local copy up and running follow these simple example steps.
    apt-get install --reinstall libpcsclite1
    ```
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Install all the packages aboe in a new folder.
-Download the clone.sh file to the same folder.
+Run the file as sudo using sudo
 
-Run the file as sudo using sudo bash ./clone.sh
-
+ ```sh
+ sudo bash ./clone.sh
+ ```
 Follow the steps on screen.
 
 
@@ -78,7 +74,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Usefull libks
+## Usefull links
 * [Youtube tutorial](https://www.youtube.com/watch?v=c0Qsmgvj_oo)
 * [Mfoc repo](https://github.com/nfc-tools/mfoc)
 * [How to install libnfc on all operation systems](http://nfc-tools.org/index.php/Libnfc#Download)
