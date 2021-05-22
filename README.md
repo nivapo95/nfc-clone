@@ -29,19 +29,22 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### What you will need
 
 
-* [NFC Card reader - I used ACR122U]
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* NFC Card reader (I used [ACR122U](https://www.amazon.com/ACS-ACR122U-Contactless-Smart-Reader/dp/B01KEGQFYY))
+* A NFC card with existing data to replicate 
+* Blank NFC cards (read+write)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
+The NFC Card reader/writer used for this POC is called ACR122U-A9 
+The Linux type I am using is a Debian 10
+
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
