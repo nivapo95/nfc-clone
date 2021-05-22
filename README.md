@@ -74,7 +74,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Usefull libks
+## Usefull links
 * [Youtube tutorial](https://www.youtube.com/watch?v=c0Qsmgvj_oo)
 * [Mfoc repo](https://github.com/nfc-tools/mfoc)
 * [How to install libnfc on all operation systems](http://nfc-tools.org/index.php/Libnfc#Download)
